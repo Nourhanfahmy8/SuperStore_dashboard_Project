@@ -10,9 +10,9 @@ I created three interactive dashboards to explore business insights.
 - **Orders Dashboard** – order patterns & customer behavior  
 
 ## 📷 Screenshots
-![Overview Dashboard](overview.png)  
-![Sales Dashboard](sales.png)  
-![Orders Dashboard](orders.png)  
+![Overview Dashboard](snapshots/overview.png)  
+![Sales Dashboard](snapshots/sales.png)  
+![Orders Dashboard](snapshots/orders.png)  
 
 ## 🛠️ Skills Practiced
 - Tableau data visualization  
